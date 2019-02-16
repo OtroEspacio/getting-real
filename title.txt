@@ -1,0 +1,10 @@
+---
+title:
+- type: main
+  text: Getting Real
+- type: subtitle
+  text: The smarter, faster, easier way to build a successful web application
+author: 37signals
+rights:  © Copyright 2006 37signals
+language: en-US
+...
