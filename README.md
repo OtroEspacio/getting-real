@@ -8,6 +8,12 @@ Because I like reading in Google Play Books and taking notes and the like. Readi
 
 With a PDF that is almost impossible. With an epub version it'll be very easy.
 
+## Conver with Pandoc
+
+```bash
+$ pandoc ./title.txt $(find ./epub/ -iname "*\.md" | sort -n) -o getting_real.epub
+```
+
 ## Original Description
 
 > I was keen to read Getting Real by the guys at 37Signals since I found it was available for free online. But I prefer reading on my Kindle these days, and since there didn't seem to be any compatible formats available on their site and I was bored, I thought I'd scrape the HTML version and take it from there.
