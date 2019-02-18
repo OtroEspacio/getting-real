@@ -1,4 +1,3 @@
-::: {.content}
 Track Your Logs
 ===============
 
@@ -25,9 +24,3 @@ raise a good point and we\'re working on it.\" You\'ll soften up your
 critics and put a human face on your product. It\'s amazing how much a
 thoughtful comment on a blog can diffuse naysayers and even turn
 complainers into evangelists.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch13) \| [Next essay](ch13_Inline_Upsell.php)
-:::
-:::

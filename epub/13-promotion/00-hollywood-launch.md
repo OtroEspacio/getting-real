@@ -1,4 +1,3 @@
-::: {.content}
 Hollywood Launch
 ================
 
@@ -57,53 +56,45 @@ marketing site. Spread the gospel as much as possible. Get blogs to link
 to you. Post about your progress: How many people have signed up? What
 updates/tweaks have you made? Show momentum and keep at it.
 
-::: {.quote}
-### The Road to Launch Day
-
-As soon as we knew Blinksale was really going to happen, we began
-floating some teasers to our mailing list. These are people who have
-asked to receive information from us about our projects. These are our
-fans, if you will. If you already have permission to talk to a group of
-people, they are the best place to start.
-
-The second thing we did is get permission to talk to more people about
-our product. About six weeks before the Blinksale launch we put up a
-teaser page at our website that proclaimed the coming of an easier way
-to send invoices online. The page gave just enough information to build
-excitement and suspense, without giving away sensitive details that
-needed to remain confidential. Prominently displayed on the page was a
-newsletter subscription form, requiring nothing but an email (keep it
-simple) so that those interested could be notified when the product
-launched.
-
-We spread the word to a dozen or so friends and colleagues that we felt
-would be interested in the product as well, and they began to spread the
-word about the teaser page through their blogs and websites. Within a
-few days, we had thousands on our mailing list. These were extremely
-important people --- people who are asking to learn more about our
-product and who wanted to know when we launched.
-
-Finally, about two weeks before we launched, we invited a handful of
-friends, colleagues, and industry mavens to help us beta test Blinksale.
-This allowed us to get the product in front of people we felt could
-benefit from its use and who could help us spread the word about the
-product when we launched. It\'s important to note that we didn\'t force
-anyone to use or write about the product. We simply wanted it to be seen
-and wanted people to talk about it when it launched. In the end, if
-you\'re going to build buzz this way, you better be sure your product
-can deliver. Otherwise, it\'s like clouds without rain.
-
-When launch day arrived, we sent an email to our mailing list, notified
-our blogging friends, and encouraged our beta testers to speak their
-minds. And to our great delight, the effort paid big dividends. Shortly
-after launch tens of thousands had visited our site and thousands of
-those had signed up to use the product.
-
----Josh Williams, founder, [Blinksale](http://www.blinksale.com/home)
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch13) \| [Next essay](ch13_A_Powerful_Promo_Site.php)
-:::
-:::
+> ### The Road to Launch Day
+> 
+> As soon as we knew Blinksale was really going to happen, we began
+> floating some teasers to our mailing list. These are people who have
+> asked to receive information from us about our projects. These are our
+> fans, if you will. If you already have permission to talk to a group of
+> people, they are the best place to start.
+> 
+> The second thing we did is get permission to talk to more people about
+> our product. About six weeks before the Blinksale launch we put up a
+> teaser page at our website that proclaimed the coming of an easier way
+> to send invoices online. The page gave just enough information to build
+> excitement and suspense, without giving away sensitive details that
+> needed to remain confidential. Prominently displayed on the page was a
+> newsletter subscription form, requiring nothing but an email (keep it
+> simple) so that those interested could be notified when the product
+> launched.
+> 
+> We spread the word to a dozen or so friends and colleagues that we felt
+> would be interested in the product as well, and they began to spread the
+> word about the teaser page through their blogs and websites. Within a
+> few days, we had thousands on our mailing list. These were extremely
+> important people --- people who are asking to learn more about our
+> product and who wanted to know when we launched.
+> 
+> Finally, about two weeks before we launched, we invited a handful of
+> friends, colleagues, and industry mavens to help us beta test Blinksale.
+> This allowed us to get the product in front of people we felt could
+> benefit from its use and who could help us spread the word about the
+> product when we launched. It\'s important to note that we didn\'t force
+> anyone to use or write about the product. We simply wanted it to be seen
+> and wanted people to talk about it when it launched. In the end, if
+> you\'re going to build buzz this way, you better be sure your product
+> can deliver. Otherwise, it\'s like clouds without rain.
+> 
+> When launch day arrived, we sent an email to our mailing list, notified
+> our blogging friends, and encouraged our beta testers to speak their
+> minds. And to our great delight, the effort paid big dividends. Shortly
+> after launch tens of thousands had visited our site and thousands of
+> those had signed up to use the product.
+> 
+> ---Josh Williams, founder, [Blinksale](http://www.blinksale.com/home)

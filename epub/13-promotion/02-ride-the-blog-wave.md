@@ -1,4 +1,3 @@
-::: {.content}
 Ride the Blog Wave
 ==================
 
@@ -28,9 +27,3 @@ a few weeks later it had been mentioned on over 200 blogs and over
 12,000 people had signed up for their own Ta-da account. Word about
 Backpack spread even faster. Within 24 hours of launch, more than 10,000
 signed up.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch13) \| [Next essay](ch13_Solicit_Early.php)
-:::
-:::

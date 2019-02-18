@@ -1,4 +1,3 @@
-::: {.content}
 Promote Through Education
 =========================
 
@@ -47,29 +46,20 @@ helping others. You get some healthy promotion. And you can even bask in
 a bit of nobility. So what do you know that the world wants to hear
 about?
 
-::: {.quote}
-### Pay It Forward
-
-The articles and tips section of our blog is one of the most popular
-sections of our site. Passing on our knowledge about email marketing
-ensures our customers get the most out of our software. If they can
-provide a better service to their customers, then they\'re likely to get
-more business, which in turn creates more business for us --- everyone
-wins.
-
-Freely sharing our knowledge has also helped position us as experts in
-the industry and strengthened our relationship with existing customers.
-They know we care about the quality of their work. Finally, we get loads
-of targeted inbound traffic from search engines and bloggers who share
-our articles with their readers. These are people that would never have
-heard of our software had we not written that article.
-
----David Greiner, founder, [Campaign
-Monitor](http://www.campaignmonitor.com)
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch13) \| [Next essay](ch13_Feature_Food.php)
-:::
-:::
+> ### Pay It Forward
+> 
+> The articles and tips section of our blog is one of the most popular
+> sections of our site. Passing on our knowledge about email marketing
+> ensures our customers get the most out of our software. If they can
+> provide a better service to their customers, then they\'re likely to get
+> more business, which in turn creates more business for us --- everyone
+> wins.
+> 
+> Freely sharing our knowledge has also helped position us as experts in
+> the industry and strengthened our relationship with existing customers.
+> They know we care about the quality of their work. Finally, we get loads
+> of targeted inbound traffic from search engines and bloggers who share
+> our articles with their readers. These are people that would never have
+> heard of our software had we not written that article.
+> 
+> ---David Greiner, founder, [Campaign Monitor](http://www.campaignmonitor.com)

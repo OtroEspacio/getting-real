@@ -1,4 +1,3 @@
-::: {.content}
 Inline Upsell
 =============
 
@@ -21,9 +20,3 @@ higher level account when they max out their current plan.
 Existing customers are your best bet for sales. Don\'t be shy about
 trying to get repeat business from people who already know and use your
 product.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch13) \| [Next essay](ch13_Name_Hook.php)
-:::
-:::

@@ -1,4 +1,3 @@
-::: {.content}
 Feature Food
 ============
 
@@ -34,9 +33,3 @@ cheap way to build your buzz. That said, don\'t go adding the latest
 obscure technology just to gain some notice. But if you are using
 something new or noteworthy, go ahead and spotlight it for special
 interest groups.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch13) \| [Next essay](ch13_Track_Your_Logs.php)
-:::
-:::

@@ -1,4 +1,3 @@
-::: {.content}
 A Powerful Promo Site
 =====================
 
@@ -24,9 +23,3 @@ this site? Some ideas:
 -   **Pricing & Sign-up**: Get people into your app as quickly as
     possible.
 -   **Weblog**: Blogs keep your site fresh with news, tips, etc.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch13) \| [Next essay](ch13_Ride_the_Blog_Wave.php)
-:::
-:::
