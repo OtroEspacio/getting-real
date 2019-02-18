@@ -1,4 +1,3 @@
-::: {.content}
 The Blank Slate
 ===============
 
@@ -50,24 +49,14 @@ First impressions are crucial. If you fail to design a thoughtful blank
 slate, you\'ll create a negative (and false) impression of your
 application or service.
 
-::: {.quote}
-### You Never Get A Second Chance\...
-
-Another aspect of the Mac OS x ui that I think has been tremendously
-influenced by \[Steve\] Jobs is the setup and first-run experience. I
-think Jobs is keenly aware of the importance of first impressions\...I
-think Jobs looks at the first-run experience and thinks, it may only be
-one-thousandth of a user\'s overall experience with the machine, but
-it\'s the most important onethousandth, because it\'s the first
-one-thousandth, and it sets their expectations and initial impression.
-
----[John Gruber](http://daringfireball.net/), author and web developer
-(from [Interview with John
-Gruber](http://www.guidebookgallery.org/articles/interviewwithjohngruber))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch09) \| [Next essay](ch09_Get_Defensive.php)
-:::
-:::
+> ### You Never Get A Second Chance\...
+> 
+> Another aspect of the Mac OS x ui that I think has been tremendously
+> influenced by \[Steve\] Jobs is the setup and first-run experience. I
+> think Jobs is keenly aware of the importance of first impressions\...I
+> think Jobs looks at the first-run experience and thinks, it may only be
+> one-thousandth of a user\'s overall experience with the machine, but
+> it\'s the most important onethousandth, because it\'s the first
+> one-thousandth, and it sets their expectations and initial impression.
+> 
+> ---[John Gruber](http://daringfireball.net/), author and web developer (from [Interview with John Gruber](http://www.guidebookgallery.org/articles/interviewwithjohngruber))

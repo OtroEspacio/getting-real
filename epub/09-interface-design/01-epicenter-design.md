@@ -1,4 +1,3 @@
-::: {.content}
 Epicenter Design
 ================
 
@@ -35,9 +34,3 @@ is a more friendly, focused, usable screen for customers. Plus, it
 allows you to start the dialogue between designer and developer right
 away instead of waiting for all aspects of the page to fall in line
 first.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch09) \| [Next essay](ch09_Three_State_Solution.php)
-:::
-:::

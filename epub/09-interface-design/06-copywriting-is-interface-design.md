@@ -1,4 +1,3 @@
-::: {.content}
 Copywriting is Interface Design
 ===============================
 
@@ -31,9 +30,3 @@ Good writing is good design. It\'s a rare exception where words don\'t
 accompany design. Icons with names, form fields with examples, buttons
 with labels, step by step instructions in a process, a clear explanation
 of your refund policy. These are all interface design.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch09) \| [Next essay](ch09_One_Interface.php)
-:::
-:::

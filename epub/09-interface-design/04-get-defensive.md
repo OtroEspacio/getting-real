@@ -1,4 +1,3 @@
-::: {.content}
 Get Defensive
 =============
 
@@ -23,10 +22,3 @@ learn how to improve error screens and other crisis points.
 
 Remember: Your app may work great 90% of the time. But if you abandon
 customers in their time of need, they\'re unlikely to forget it.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch09) \| [Next
-essay](ch09_Context_Over_Consistency.php)
-:::
-:::

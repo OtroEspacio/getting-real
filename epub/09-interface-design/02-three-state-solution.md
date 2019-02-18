@@ -1,4 +1,3 @@
-::: {.content}
 Three State Solution
 ====================
 
@@ -19,9 +18,3 @@ For each screen, you need to consider three possible states:
 The regular state is a no-brainer. This is the screen where you\'ll
 spend most of your time. But don\'t forget to invest time on the other
 states too (see the following essays for more on this).
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch09) \| [Next essay](ch09_The_Blank_Slate.php)
-:::
-:::
