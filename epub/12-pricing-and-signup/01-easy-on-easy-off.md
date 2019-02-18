@@ -1,4 +1,3 @@
-::: {.content}
 Easy On, Easy Off
 =================
 
@@ -38,24 +37,12 @@ builds trust. You\'re giving them a bridge to their data island. You\'re
 allowing them to leave without penalty if they find a better offer.
 It\'s the right thing to do and it builds goodwill.
 
-::: {.quote}
-### Exit with Ease
-
-Don\'t hold users against their will. If they want to leave, let them
-pick up with all of the content they created while they were on your
-site and leave\...for free\... You have to let the barn door open and
-focus on keeping your customers fed, so they want to come back, instead
-of coming back because they\'re stuck.
-
----Charlie O\'Donnell, analyst, [Union Square
-Ventures](http://www.unionsquareventures.com/)\
-(from [10 Steps to a Hugely Successful Web 2.0
-Company](http://www.thisisgoingtobebig.com/2005/08/10_steps_to_a_h.html))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch12) \| [Next
-essay](ch12_Silly_Rabbit_Tricks_are_for_Kids.php)
-:::
-:::
+> ### Exit with Ease
+> 
+> Don\'t hold users against their will. If they want to leave, let them
+> pick up with all of the content they created while they were on your
+> site and leave\...for free\... You have to let the barn door open and
+> focus on keeping your customers fed, so they want to come back, instead
+> of coming back because they\'re stuck.
+> 
+> ---Charlie O\'Donnell, analyst, [Union Square Ventures](http://www.unionsquareventures.com/) (from [10 Steps to a Hugely Successful Web 2.0 Company](http://www.thisisgoingtobebig.com/2005/08/10_steps_to_a_h.html))
