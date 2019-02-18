@@ -1,4 +1,3 @@
-::: {.content}
 Scale Later
 ===========
 
@@ -38,21 +37,10 @@ Believe it or not, the bigger problem isn\'t scaling, it\'s getting to
 the point where you have to scale. Without the first problem you won\'t
 have the second.
 
-::: {.quote}
-### You have to revisit anyway
-
-The fact is that everyone has scalability issues, no one can deal with
-their service going from zero to a few million users without revisiting
-almost every aspect of their design and architecture.
-
----Dare Obasanjo, [Microsoft](Scaling%20Up%20and%20Startups) (from
-[Scaling Up and
-Startups](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=067a2eb8-85c0-4886-b35f-f32b1a46eab9))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch04) \| [Next
-essay](ch04_Make_Opinionated_Software.php)
-:::
-:::
+> ### You have to revisit anyway
+> 
+> The fact is that everyone has scalability issues, no one can deal with
+> their service going from zero to a few million users without revisiting
+> almost every aspect of their design and architecture.
+> 
+> ---Dare Obasanjo, Microsoft (from [Scaling Up and Startups](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=067a2eb8-85c0-4886-b35f-f32b1a46eab9))

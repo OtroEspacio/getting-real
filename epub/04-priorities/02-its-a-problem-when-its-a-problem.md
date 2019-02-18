@@ -1,4 +1,3 @@
-::: {.content}
 It\'s a Problem When It\'s a Problem
 ====================================
 
@@ -34,10 +33,3 @@ thrilled but they\'ll appreciate the candor.
 Bottom Line: Make decisions just in time, when you have access to the
 real information you need. In the meanwhile, you\'ll be able to lavish
 attention on the things that require immediate care.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch04) \| [Next
-essay](ch04_Hire_the_Right_Customers.php)
-:::
-:::

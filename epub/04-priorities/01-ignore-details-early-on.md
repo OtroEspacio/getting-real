@@ -1,4 +1,3 @@
-::: {.content}
 Ignore Details Early On
 =======================
 
@@ -39,32 +38,22 @@ what needs more attention. You\'ll feel what\'s missing. You\'ll know
 which potholes to pave over because you\'ll keep hitting them. That\'s
 when you need to pay attention, not sooner.
 
-::: {.quote}
-### The Devil\'s in the Details
-
-I really got over the \"get into details right away\" attitude after I
-took some drawing classes\...If you begin to draw the details right away
-you can be sure that the drawing is going to suck. In fact, you are
-completely missing the point.
-
-You should begin by getting your proportions right for the whole scene.
-Then you sketch the largest objects in your scene, up to the smallest
-one. The sketch must be very loose up to this point. Then you can
-proceed with shading which consists of bringing volume to life. You
-begin with only three tones (light, medium, dark). This gives you a
-tonal sketch. Then for each portion of your drawing you reevaluate three
-tonal shades and apply them. Do it until the volumes are there (requires
-multiple iteration)\...
-
-Work from large to small. Always.
-
----Patrick Lafleur, Creation Objet Inc. (from [Signal vs.
-Noise](http://www.37signals.com/svn/archives2/getting_real_ignore_details_early_on.php))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch04) \| [Next
-essay](ch04_Its_a_Problem_When_Its_a_Problem.php)
-:::
-:::
+> ### The Devil\'s in the Details
+> 
+> I really got over the \"get into details right away\" attitude after I
+> took some drawing classes\...If you begin to draw the details right away
+> you can be sure that the drawing is going to suck. In fact, you are
+> completely missing the point.
+> 
+> You should begin by getting your proportions right for the whole scene.
+> Then you sketch the largest objects in your scene, up to the smallest
+> one. The sketch must be very loose up to this point. Then you can
+> proceed with shading which consists of bringing volume to life. You
+> begin with only three tones (light, medium, dark). This gives you a
+> tonal sketch. Then for each portion of your drawing you reevaluate three
+> tonal shades and apply them. Do it until the volumes are there (requires
+> multiple iteration)\...
+> 
+> Work from large to small. Always.
+> 
+> ---Patrick Lafleur, Creation Objet Inc. (from [Signal vs. Noise](http://www.37signals.com/svn/archives2/getting_real_ignore_details_early_on.php))

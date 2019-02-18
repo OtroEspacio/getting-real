@@ -1,4 +1,3 @@
-::: {.content}
 What\'s the Big Idea?
 =====================
 
@@ -39,43 +38,31 @@ communication priorities like messages, comments, to-do lists, and
 sharing files. Make the big decision about your vision upfront and all
 your future little decisions become much easier.
 
-::: {.quote}
-### Whiteboard philosophy
+> ### Whiteboard philosophy
+> 
+> Andy Hunt and I once wrote a debit card transaction switch. A major
+> requirement was that the user of a debit card shouldn\'t have the same
+> transaction applied to their account twice. In other words, no matter
+> what sort of failure mode might happen, the error should be on the side
+> of not processing a transaction rather than processing a duplicate
+> transaction.
+> 
+> So, we wrote it on our shared whiteboard in big letters: Err in favor of
+> users.
+> 
+> It joined about half-a-dozen other maxims. Jointly, these guided all
+> those tricky decisions you make while building something complex.
+> Together, these laws gave our application strong internal coherence and
+> great external consistency.
+> 
+> ---Dave Thomas, [The Pragmatic Programmers](http://www.pragmaticprogrammer.com/)
 
-Andy Hunt and I once wrote a debit card transaction switch. A major
-requirement was that the user of a debit card shouldn\'t have the same
-transaction applied to their account twice. In other words, no matter
-what sort of failure mode might happen, the error should be on the side
-of not processing a transaction rather than processing a duplicate
-transaction.
-
-So, we wrote it on our shared whiteboard in big letters: Err in favor of
-users.
-
-It joined about half-a-dozen other maxims. Jointly, these guided all
-those tricky decisions you make while building something complex.
-Together, these laws gave our application strong internal coherence and
-great external consistency.
-
----Dave Thomas, [The Pragmatic
-Programmers](http://www.pragmaticprogrammer.com/)
-:::
-
-::: {.quote}
-### Make Mantra
-
-Organizations need guideposts. They need an outline; employees need to
-know each day when they wake up why they\'re going to work. This outline
-should be short and sweet, and all encompassing: Why do you exist? What
-motivates you? I call this a mantra --- a three or four-word description
-of why you exist.
-
----[Guy Kawasaki](http://www.guykawasaki.com/), author (from [Make
-Mantra](http://www.alwayson-network.com/comments.php?id=11963_0_1_0_C))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch04) \| [Next essay](ch04_Ignore_Details_Early_On.php)
-:::
-:::
+> ### Make Mantra
+> 
+> Organizations need guideposts. They need an outline; employees need to
+> know each day when they wake up why they\'re going to work. This outline
+> should be short and sweet, and all encompassing: Why do you exist? What
+> motivates you? I call this a mantra --- a three or four-word description
+> of why you exist.
+> 
+> ---[Guy Kawasaki](http://www.guykawasaki.com/), author (from [Make Mantra](http://www.alwayson-network.com/comments.php?id=11963_0_1_0_C))

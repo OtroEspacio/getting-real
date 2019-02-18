@@ -1,4 +1,3 @@
-::: {.content}
 Make Opinionated Software
 =========================
 
@@ -32,9 +31,3 @@ Our apps have followed a similar path. They don\'t try to be all things
 to all people. They have an attitude. They seek out customers who are
 actually partners. They speak to people who share our vision. You\'re
 either on the bus or off the bus.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch05) \| [Next essay](ch05_Half_Not_Half_Assed.php)
-:::
-:::
