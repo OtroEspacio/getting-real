@@ -1,4 +1,3 @@
-::: {.content}
 37signals Resources
 ===================
 
@@ -16,9 +15,3 @@
     to-do lists
 -   [Ruby on Rails](http://www.rubyonrails.org) --- Open-source web
     application framework
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch16)
-:::
-:::

@@ -1,4 +1,3 @@
-::: {.content}
 Start Your Engines
 ==================
 
@@ -92,9 +91,3 @@ visiting [Signal vs. Noise](http://www.37signals.com/svn), our blog
 about Getting Real, usability, design, and a bunch of other stuff.
 
 **Thanks for reading and good luck!**
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch16) \| [Next essay](ch16_37signals_Resources.php)
-:::
-:::
