@@ -1,4 +1,3 @@
-::: {.content}
 Code Speaks
 ===========
 
@@ -20,33 +19,18 @@ not be exactly the same as the feature you originally had in mind but so
 what? If it works well enough and gives you more time to work on
 something else, it\'s a keeper.
 
-::: {.quote}
-### Listen up
+> ### Listen up
+> 
+> Don\'t worry about design, if you listen to your code a good design will
+> appear\...Listen to the technical people. If they are complaining about
+> the difficulty of making changes, then take such complaints seriously
+> and give them time to fix things.
+> 
+> ---Martin Fowler, Chief Scientist, [ThoughtWorks](http://www.thoughtworks.com) (from [Is Design Dead?](http://www.martinfowler.com/articles/designDead.html))
 
-Don\'t worry about design, if you listen to your code a good design will
-appear\...Listen to the technical people. If they are complaining about
-the difficulty of making changes, then take such complaints seriously
-and give them time to fix things.
-
----Martin Fowler, Chief Scientist,
-[ThoughtWorks](http://www.thoughtworks.com) (from [Is Design
-Dead?](http://www.martinfowler.com/articles/designDead.html))
-:::
-
-::: {.quote}
-### If Programmers Got Paid To Remove Code\...
-
-If programmers got paid to remove code from sofware instead of writing
-new code, software would be a whole lot better.
-
----[Nicholas Negroponte](http://web.media.mit.edu/~nicholas/), Professor
-of Media Technology at MIT\
-(from [And, the rest of the (AIGA Conference)
-story](http://www.kottke.org/05/09/aiga-conclusion))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch10) \| [Next essay](ch10_Manage_Debt.php)
-:::
-:::
+> ### If Programmers Got Paid To Remove Code\...
+> 
+> If programmers got paid to remove code from sofware instead of writing
+> new code, software would be a whole lot better.
+> 
+> ---[Nicholas Negroponte](http://web.media.mit.edu/~nicholas/), Professor of Media Technology at MIT (from [And, the rest of the (AIGA Conference) story](http://www.kottke.org/05/09/aiga-conclusion))

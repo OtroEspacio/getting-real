@@ -1,4 +1,3 @@
-::: {.content}
 Manage Debt
 ===========
 
@@ -21,9 +20,3 @@ The same way you should regularly put aside some of your income for
 taxes, regularly put aside some time to pay off your code and design
 debt. If you don\'t, you\'ll just be paying interest (fixing hacks)
 instead of paying down the principal (and moving forward).
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch10) \| [Next essay](ch10_Open_Doors.php)
-:::
-:::

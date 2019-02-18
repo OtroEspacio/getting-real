@@ -1,4 +1,3 @@
-::: {.content}
 Optimize for Happiness
 ======================
 
@@ -33,22 +32,13 @@ applications, platforms, and anything else. Choose the fuse that gets
 people excited. You\'ll generate excitement and motivation and a better
 product as a result.
 
-::: {.quote}
-### The kinds of engineers you want
-
-The number one reason I wanted to build our app using Ruby on Rails is
-that it is so elegant, productive, and beautifully designed. It tends to
-attract the kind of engineers who care about just those sort of
-things\...those are exactly the kinds of engineers you want on your team
-because they create the kind of beautiful, elegant and productive
-software you need to win the market.
-
----Charles Jolley, Managing Director at [Nisus
-Software](http://www.nisus.com/) (from Signal vs. Noise)
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch10) \| [Next essay](ch10_Code_Speaks.php)
-:::
-:::
+> ### The kinds of engineers you want
+> 
+> The number one reason I wanted to build our app using Ruby on Rails is
+> that it is so elegant, productive, and beautifully designed. It tends to
+> attract the kind of engineers who care about just those sort of
+> things\...those are exactly the kinds of engineers you want on your team
+> because they create the kind of beautiful, elegant and productive
+> software you need to win the market.
+> 
+> ---Charles Jolley, Managing Director at [Nisus Software](http://www.nisus.com/) (from Signal vs. Noise)

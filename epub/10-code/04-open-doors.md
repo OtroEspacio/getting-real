@@ -1,4 +1,3 @@
-::: {.content}
 Open Doors
 ==========
 
@@ -42,32 +41,21 @@ boomerang effect:
     variety of choices when it comes to doing things with your photos,\"
     says Stewart Butterfield of Flickr.
 
-::: {.quote}
-### A Widget Makes the Difference
-
-When 37signals released Backpack a while back, my first impression
-was\...eh.
-
-So it was around the time that Chipt Productions released a Backpack
-widget for Tiger --- which was too cool not to download and try --- that
-I gave Backpack a second look. The result? Quite a difference.
-
-Now whenever an idea hits, I pop up the widget, type, and submit ---
-done. Email arrives with something I want to check out? Pop up the
-widget, type, and submit --- done. The widget is an immediate brain dump
-readily available on each Mac I use. And because everything is web
-based, there isn\'t any version control or syncing --- just the fluid
-input of content without having to be concerned about where it\'s going
-or how I\'ll access it later.
-
----Todd Dominey, founder, [Dominey Design](http://domineydesign.com/)\
-(from [Trying on
-Backpack](http://whatdoiknow.org/archives/002378.shtml))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch10) \| [Next
-essay](ch11_Theres_Nothing_Functional_about_a_Functional_Spec.php)
-:::
-:::
+> ### A Widget Makes the Difference
+> 
+> When 37signals released Backpack a while back, my first impression
+> was\...eh.
+> 
+> So it was around the time that Chipt Productions released a Backpack
+> widget for Tiger --- which was too cool not to download and try --- that
+> I gave Backpack a second look. The result? Quite a difference.
+> 
+> Now whenever an idea hits, I pop up the widget, type, and submit ---
+> done. Email arrives with something I want to check out? Pop up the
+> widget, type, and submit --- done. The widget is an immediate brain dump
+> readily available on each Mac I use. And because everything is web
+> based, there isn\'t any version control or syncing --- just the fluid
+> input of content without having to be concerned about where it\'s going
+> or how I\'ll access it later.
+> 
+> ---Todd Dominey, founder, [Dominey Design](http://domineydesign.com/)\ (from [Trying on Backpack](http://whatdoiknow.org/archives/002378.shtml))
