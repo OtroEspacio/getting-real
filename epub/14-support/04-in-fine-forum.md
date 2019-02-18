@@ -1,4 +1,3 @@
-::: {.content}
 In Fine Forum
 =============
 
@@ -15,10 +14,4 @@ stories, and more. We pop in from time to time to offer some assistance
 but the forums are mainly a place for the community to help each other
 and share their experiences with the product.
 
-You\'ll be surprised how much people want to help one another.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch14) \| [Next essay](ch14_Publicize_Your_Screwups.php)
-:::
-:::
+You'll be surprised how much people want to help one another.

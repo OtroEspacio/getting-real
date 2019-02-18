@@ -1,4 +1,3 @@
-::: {.content}
 Tough Love
 ==========
 
@@ -15,27 +14,21 @@ meeting scheduling, comprehensive calendaring, comprehensive dependency
 task systems, comprehensive instant message chatting, comprehensive wiki
 functionality, and comprehensive whatever-else-you-can-imagine.
 
-**Yet, the \#1 request we get on customer surveys is to keep Basecamp
+**Yet, the #1 request we get on customer surveys is to keep Basecamp
 simple.**
 
-Here\'s another example: Despite some complaints, we decided not to
+Here's another example: Despite some complaints, we decided not to
 support ie5 with our products. That was 7% of the market we were writing
 off. But we decided it was more important to worry about the other 93%.
-Fixing bugs and testing for ie5 just isn\'t worth the time. We\'d rather
+Fixing bugs and testing for ie5 just isn't worth the time. We'd rather
 make a better product for everyone else.
 
 As a software development company, you have to act as a filter. Not
 everything everyone suggests is the right answer. We consider all
 requests but the customer is not always right. There will be times when
-you just have to piss some people off. C\'est la vie.
+you just have to piss some people off. C'est la vie.
 
-Related to this, it\'s critical that you as a development company love
-your product. And you won\'t love your product if it\'s filled with a
-bunch of stuff you don\'t agree with. That\'s yet another justification
-for vetoing customer requests that you don\'t believe are necessary.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch14) \| [Next essay](ch14_In_Fine_Forum.php)
-:::
-:::
+Related to this, it's critical that you as a development company love
+your product. And you won't love your product if it's filled with a
+bunch of stuff you don't agree with. That's yet another justification
+for vetoing customer requests that you don't believe are necessary.

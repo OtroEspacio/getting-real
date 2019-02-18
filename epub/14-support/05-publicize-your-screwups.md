@@ -1,4 +1,3 @@
-::: {.content}
 Publicize Your Screwups
 =======================
 
@@ -31,21 +30,10 @@ A side note about delivering news, bad and good: When bad news comes,
 get it all out in the open at once. Good news, on the other hand, should
 be trickled out slowly. If you can prolong the good vibes, do it.
 
-::: {.quote}
-### Be Swift, Direct, and Honest
-
-It may sound strange, but the best-case scenario is when the company
-itself reports the bad news. This is proactive and prevents your company
-from being put in a weakened, defensive position.
-
----Greg Sherwin, Vice President of Application Technology,
-[CNET](http://www.cnet.com/), and Emily Avila, Principal, [Calypso
-Communications](http://www.calypsocom.com/) (from [A Primer for Crisis
-PR](http://www.clickz.com/showPage.html?page=836871))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch14) \| [Next essay](ch15_One_Month_Tuneup.php)
-:::
-:::
+> ### Be Swift, Direct, and Honest
+> 
+> It may sound strange, but the best-case scenario is when the company
+> itself reports the bad news. This is proactive and prevents your company
+> from being put in a weakened, defensive position.
+> 
+> ---Greg Sherwin, Vice President of Application Technology, [CNET](http://www.cnet.com/), and Emily Avila, Principal, [Calypso Communications](http://www.calypsocom.com/) (from [A Primer for Crisis PR](http://www.clickz.com/showPage.html?page=836871))
