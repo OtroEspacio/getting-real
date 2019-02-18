@@ -1,4 +1,3 @@
-::: {.content}
 From Idea to Implementation
 ===========================
 
@@ -56,9 +55,3 @@ During this whole process remember to stay flexible and expect multiple
 iterations. You should feel free to throw away the deliverable of any
 particular step and start again if it turns out crappy. It\'s natural to
 go through this cycle multiple times.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch06) \| [Next essay](ch06_Avoid_Preferences.php)
-:::
-:::

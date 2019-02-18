@@ -1,4 +1,3 @@
-::: {.content}
 Avoid Preferences
 =================
 
@@ -41,25 +40,15 @@ Yes, you might make a bad call. But so what. If you do, people will
 complain and tell you about it. As always, you can adjust. Getting Real
 is all about being able to change on the fly.
 
-::: {.quote}
-### Preferences Have a Cost
-
-It turns out that preferences have a cost. Of course, some preferences
-also have important benefits --- and can be crucial interface features.
-But each one has a price, and you have to carefully consider its value.
-Many users and developers don\'t understand this, and end up with a lot
-of cost and little value for their preferences dollar\...I find that if
-you\'re hard-core disciplined about having good defaults that Just Work
-instead of lazily adding preferences, that naturally leads the overall
-ui in the right direction.
-
----Havoc Pennington, tech lead, [Red Hat](http://www.redhat.com/) (from
-[Free software and good user
-interfaces](http://www106.pair.com/rhp/free-software-ui.html))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch06) \| [Next essay](ch06_Done.php)
-:::
-:::
+> ### Preferences Have a Cost
+> 
+> It turns out that preferences have a cost. Of course, some preferences
+> also have important benefits --- and can be crucial interface features.
+> But each one has a price, and you have to carefully consider its value.
+> Many users and developers don\'t understand this, and end up with a lot
+> of cost and little value for their preferences dollar\...I find that if
+> you\'re hard-core disciplined about having good defaults that Just Work
+> instead of lazily adding preferences, that naturally leads the overall
+> ui in the right direction.
+> 
+> ---Havoc Pennington, tech lead, [Red Hat](http://www.redhat.com/) (from [Free software and good user interfaces](http://www106.pair.com/rhp/free-software-ui.html))
