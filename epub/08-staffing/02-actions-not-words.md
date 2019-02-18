@@ -1,4 +1,3 @@
-::: {.content}
 Actions, Not Words
 ==================
 
@@ -58,21 +57,10 @@ David are two of the heaviest contributors to Rails and still manage to
 drive 37signals technically. People who love to program and get things
 done are exactly the kind of people you want on your team.
 
-::: {.quote}
-### Open Source Passion
-
-What you want the most from a new hire is passion for what he does, and
-there\'s no better way of showing it than a trace of commitment in open
-source projects.
-
----Jarkko Laine, software developer\
-(from [Reduce the risk, hire from open
-source](http://www.loudthinking.com/arc/000505.html))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch08) \| [Next
-essay](ch08_Get_Well_Rounded_Individuals.php)
-:::
-:::
+> ### Open Source Passion
+> 
+> What you want the most from a new hire is passion for what he does, and
+> there\'s no better way of showing it than a trace of commitment in open
+> source projects.
+> 
+> ---Jarkko Laine, software developer (from [Reduce the risk, hire from open source](http://www.loudthinking.com/arc/000505.html))

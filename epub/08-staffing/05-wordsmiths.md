@@ -1,4 +1,3 @@
-::: {.content}
 Wordsmiths
 ==========
 
@@ -16,37 +15,22 @@ writers know how to communicate. They make things easy to understand.
 They can put themselves in someone else\'s shoes. They know what to
 omit. They think clearly. And those are the qualities you need.
 
-::: {.quote}
-### An Organized Mind
+> ### An Organized Mind
+> 
+> Good writing skills are an indicator of an organized mind which is
+> capable of arranging information and argument in a systematic fashion
+> and also helping (not making) other people understand things. It spills
+> over into code, personal communications, instant messaging (for those
+> long-distance collaborations), and even such esoteric concepts as
+> professionalism and reliability.
+> 
+> ---Dustin J. Mitchell, developer (from [Signal vs. Noise](http://www.37signals.com/svn/archives2/hiring_tip.php))
 
-Good writing skills are an indicator of an organized mind which is
-capable of arranging information and argument in a systematic fashion
-and also helping (not making) other people understand things. It spills
-over into code, personal communications, instant messaging (for those
-long-distance collaborations), and even such esoteric concepts as
-professionalism and reliability.
-
----Dustin J. Mitchell, developer (from [Signal vs.
-Noise](http://www.37signals.com/svn/archives2/hiring_tip.php))
-:::
-
-::: {.quote}
-### Clear Writing Leads To Clear Thinking
-
-Clear writing leads to clear thinking. You don\'t know what you know
-until you try to express it. Good writing is partly a matter of
-character. Instead of doing what\'s easy for you, do what\'s easy for
-your reader.
-
----Michael A. Covington, Professor of Computer Science at The University
-of Georgia\
-(from [How to Write More Clearly, Think More Clearly, and Learn Complex
-Material More
-Easily](http://www.ai.uga.edu/mc/WriteThinkLearn_files/frame.htm))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch08) \| [Next essay](ch09_Interface_First.php)
-:::
-:::
+> ### Clear Writing Leads To Clear Thinking
+> 
+> Clear writing leads to clear thinking. You don\'t know what you know
+> until you try to express it. Good writing is partly a matter of
+> character. Instead of doing what\'s easy for you, do what\'s easy for
+> your reader.
+> 
+> ---Michael A. Covington, Professor of Computer Science at The University of Georgia (from [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](http://www.ai.uga.edu/mc/WriteThinkLearn_files/frame.htm))
