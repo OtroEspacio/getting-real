@@ -1,4 +1,3 @@
-::: {.content}
 Less Mass
 =========
 
@@ -6,14 +5,14 @@ The leaner you are, the easier it is to change
 ----------------------------------------------
 
 The more massive an object, the more energy is required to change its
-direction. It\'s as true in the business world as it is in the physical
+direction. It's as true in the business world as it is in the physical
 world.
 
 When it comes to web technology, change must be easy and cheap. If you
-can\'t change on the fly, you\'ll lose ground to someone who can.
-That\'s why you need to shoot for less mass.
+can't change on the fly, you'll lose ground to someone who can.
+That's why you need to shoot for less mass.
 
-Mass is increased by\...
+Mass is increased by...
 ------------------------
 
 -   Long term contracts
@@ -28,7 +27,7 @@ Mass is increased by\...
 -   Long-term roadmaps
 -   Office politics
 
-Mass is reduced by\...
+Mass is reduced by...
 ----------------------
 
 -   Just-in-time thinking
@@ -49,14 +48,14 @@ and respond to your customers. You can integrate new technologies now
 instead of later. Instead of an aircraft carrier, you steer a cigarette
 boat. Revel in that fact.
 
-For example, let\'s imagine a lean, less mass company that has built a
+For example, let's imagine a lean, less mass company that has built a
 product with less software and less features. On the other side is a
-more mass company that\'s got a product with significantly more software
-and more features. Then let\'s say a new technology like Ajax or a new
+more mass company that's got a product with significantly more software
+and more features. Then let's say a new technology like Ajax or a new
 concept like tagging comes around. Who is going to be able to adapt
 their product quicker? The team with more software and more features and
 a 12-month roadmap or the team with less software and less features and
-a more organic \"let\'s focus on what we need to focus on right now\"
+a more organic "let's focus on what we need to focus on right now"
 process?
 
 Obviously the less-mass company is in a better position to adjust to the
@@ -71,10 +70,3 @@ business model, product, feature set, and marketing message. They can
 make mistakes and fix them quickly. They can change their priorities,
 product mix, and focus. And, most importantly, **they can change their
 minds**.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch03) \| [Next
-essay](ch03_Lower_Your_Cost_of_Change.php)
-:::
-:::

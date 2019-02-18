@@ -1,4 +1,3 @@
-::: {.content}
 Embrace Constraints
 ===================
 
@@ -41,25 +40,16 @@ Constraints are often advantages in disguise. Forget about venture
 capital, long release cycles, and quick hires. Instead, work with what
 you have.
 
-::: {.quote}
-### Fight blight
-
-What has been described as \"creeping elegance\" is probably better
-described as \"feature blight,\" for like a fungus on a plant it
-gradually elaborates and blurs the true outline of the product while it
-drains its sap. The antidote to feature blight is, of course, the
-\"constricting deadline.\" This results in features being discarded in
-proportion to the time it would take to implement them. It is often the
-case that the most useful features take the longest to implement. Thus
-the combination of the blight and the deadline yields software as we
-know and love it, comprised of bountiful quantities of useless features.
-
----Jef Raskin, author (from [\"Why Software Is the Way It
-Is\"](http://jef.raskincenter.org/unpublished/widgets_of_the_week.html#anchor1152335))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch03) \| [Next essay](ch03_Be_Yourself.php)
-:::
-:::
+> ### Fight blight
+> 
+> What has been described as \"creeping elegance\" is probably better
+> described as \"feature blight,\" for like a fungus on a plant it
+> gradually elaborates and blurs the true outline of the product while it
+> drains its sap. The antidote to feature blight is, of course, the
+> \"constricting deadline.\" This results in features being discarded in
+> proportion to the time it would take to implement them. It is often the
+> case that the most useful features take the longest to implement. Thus
+> the combination of the blight and the deadline yields software as we
+> know and love it, comprised of bountiful quantities of useless features.
+> 
+> ---Jef Raskin, author (from [\"Why Software Is the Way It Is\"](http://jef.raskincenter.org/unpublished/widgets_of_the_week.html#anchor1152335))
