@@ -1,4 +1,3 @@
-::: {.content}
 It Just Doesn\'t Matter
 =======================
 
@@ -43,9 +42,3 @@ made.
 Most of the time you spend is wasted on things that just don\'t matter.
 If you can cut out the work and thinking that just don\'t matter,
 you\'ll achieve productivity you\'ve never imagined.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch05) \| [Next essay](ch05_Start_With_No.php)
-:::
-:::

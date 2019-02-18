@@ -1,4 +1,3 @@
-::: {.content}
 Forget Feature Requests
 =======================
 
@@ -43,9 +42,3 @@ can\'t forget what\'s important when you are reminded of it every day.
 And one more thing: Just because x number of people request something,
 doesn\'t mean you have to include it. Sometimes it\'s better to just say
 no and maintain your vision for the product.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch05) \| [Next essay](ch05_Hold_the_Mayo.php)
-:::
-:::

@@ -1,4 +1,3 @@
-::: {.content}
 Can You Handle It?
 ==================
 
@@ -18,9 +17,3 @@ Bottom line: Build products and offer services you can manage. It\'s
 easy to make promises. It\'s much harder to keep them. Make sure
 whatever it is that you\'re doing is something you can actually sustain
 --- organizationally, strategically, and financially.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch05) \| [Next essay](ch05_Human_Solutions.php)
-:::
-:::

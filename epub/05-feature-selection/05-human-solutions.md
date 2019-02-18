@@ -1,4 +1,3 @@
-::: {.content}
 Human Solutions
 ===============
 
@@ -27,9 +26,3 @@ don\'t apply.
 Do the best job you can with the root of the problem then step aside.
 People will find their own solutions and conventions within your general
 framework.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch05) \| [Next essay](ch05_Forget_Feature_Requests.php)
-:::
-:::

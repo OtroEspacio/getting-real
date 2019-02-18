@@ -1,4 +1,3 @@
-::: {.content}
 Half, Not Half-Assed
 ====================
 
@@ -22,9 +21,3 @@ real world usage instead of hunches.
 
 Start off with a lean, smart app and let it gain traction. Then you can
 start to add to the solid foundation you\'ve built.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch05) \| [Next essay](ch05_It_Just_Doesnt_Matter.php)
-:::
-:::
