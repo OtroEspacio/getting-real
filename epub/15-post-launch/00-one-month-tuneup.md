@@ -1,4 +1,3 @@
-::: {.content}
 One Month Tuneup
 ================
 
@@ -21,9 +20,3 @@ This baby-step approach worked well for Backpack. We launched the base
 product first and then, a few weeks later, added features like Backpack
 Mobile for handhelds and tagging since those things are what our
 customers told us they wanted most.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch15) \| [Next essay](ch15_Keep_the_Posts_Coming.php)
-:::
-:::

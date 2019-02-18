@@ -1,4 +1,3 @@
-::: {.content}
 Keep Up With the Joneses
 ========================
 
@@ -11,10 +10,3 @@ PubSub, Technorati, Feedster, and others to stay up to date (for
 keywords, use company names and product names). With RSS, this
 constantly changing info will be delivered right to you so you\'re
 always up to speed.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch15) \| [Next
-essay](ch15_Beware_the_Bloat_Monster.php)
-:::
-:::

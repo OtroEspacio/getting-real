@@ -1,4 +1,3 @@
-::: {.content}
 Go With the Flow
 ================
 
@@ -17,9 +16,3 @@ eventually shelved). Be willing to admit mistakes and change course.
 
 Be a surfer. Watch the ocean. Figure out where the big waves are
 breaking and adjust accordingly.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch15) \| [Next essay](ch16_Start_Your_Engines.php)
-:::
-:::

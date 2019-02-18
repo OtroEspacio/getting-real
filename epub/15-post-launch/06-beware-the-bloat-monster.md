@@ -1,4 +1,3 @@
-::: {.content}
 Beware the Bloat Monster
 ========================
 
@@ -33,9 +32,3 @@ With web-based software based on the subscription model, people pay a
 monthly fee to use the service. You don\'t need to keep upselling them
 by adding more and more and more, you just need to provide an ongoing
 valuable service.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch15) \| [Next essay](ch15_Go_With_the_Flow.php)
-:::
-:::

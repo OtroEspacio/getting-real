@@ -1,4 +1,3 @@
-::: {.content}
 Ride Out the Storm
 ==================
 
@@ -22,10 +21,3 @@ passionate than positive ones. In fact, you may only hear negative
 voices even when the majority of your base is happy about a change. Make
 sure you don\'t foolishly backpedal on a necessary, but controversial,
 decision.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch15) \| [Next
-essay](ch15_Keep_Up_With_the_Joneses.php)
-:::
-:::

@@ -1,4 +1,3 @@
-::: {.content}
 All Bugs Are Not Created Equal
 ==============================
 
@@ -31,9 +30,3 @@ you\'ve noted the issue and are dealing with it. If it won\'t be
 addressed right away, explain why and say you\'re focusing on areas of
 the product that affect a greater number of people. Honesty is the best
 policy.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch15) \| [Next essay](ch15_Ride_Out_the_Storm.php)
-:::
-:::
