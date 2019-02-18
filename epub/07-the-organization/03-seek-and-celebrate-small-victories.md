@@ -1,4 +1,3 @@
-::: {.content}
 Seek and Celebrate Small Victories
 ==================================
 
@@ -29,10 +28,3 @@ be\...
 When you find those 4-hour quick wins, you\'ll find celebration. That
 builds morale, increases motivation, and reaffirms that the team is
 headed in the right direction.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch07) \| [Next
-essay](ch08_Hire_Less_and_Hire_Later.php)
-:::
-:::

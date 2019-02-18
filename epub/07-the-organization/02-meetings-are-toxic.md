@@ -1,4 +1,3 @@
-::: {.content}
 Meetings Are Toxic
 ==================
 
@@ -34,44 +33,31 @@ be a rare event), stick to these simple rules:
 -   Invite as few people as possible.
 -   Never have a meeting without a clear agenda.
 
-::: {.quote}
-### Have fewer meetings
+> ### Have fewer meetings
+> 
+> There are too many meetings. Push back on meetings that do not make
+> sense or are unproductive. Only book a meeting when you have an
+> important business issue to discuss and you want or need input,
+> approval, or agreement. Even then, resist the urge to invite everyone
+> and their brother --- don\'t waste people\'s time unnecessarily.
+> 
+> ---Lisa Haneberg, author (from [Don\'t Let Meetings Rule!](http://managementcraft.typepad.com/management_craft/2004/09/dont_let_meetin.html))
 
-There are too many meetings. Push back on meetings that do not make
-sense or are unproductive. Only book a meeting when you have an
-important business issue to discuss and you want or need input,
-approval, or agreement. Even then, resist the urge to invite everyone
-and their brother --- don\'t waste people\'s time unnecessarily.
-
----Lisa Haneberg, author (from [Don\'t Let Meetings
-Rule!](http://managementcraft.typepad.com/management_craft/2004/09/dont_let_meetin.html))
-:::
-
-::: {.quote}
-### Break it Down
-
-As projects grow, adding people has a diminishing return. One of the
-most interesting reasons is the increased number of communications
-channels. Two people can only talk to each other; there\'s only a single
-comm path. Three workers have three communications paths; 4 have 6. In
-fact, the growth of links is exponential\...Pretty soon memos and
-meetings eat up the entire work day.
-
-The solution is clear: break teams into smaller, autonomous and
-independent units to reduce these communications links.
-
-Similarly, cut programs into smaller units. Since a large part of the
-problem stems from dependencies (global variables, data passed between
-functions, shared hardware, etc.), find a way to partition the program
-to eliminate --- or minimize --- the dependencies between units.
-
----[The Ganssle Group](http://www.ganssle.com) (from [Keep It
-Small](http://www.ganssle.com/articles/keepsmall.htm))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch07) \| [Next
-essay](ch07_Seek_and_Celebrate_Small_Victories.php)
-:::
-:::
+> ### Break it Down
+> 
+> As projects grow, adding people has a diminishing return. One of the
+> most interesting reasons is the increased number of communications
+> channels. Two people can only talk to each other; there\'s only a single
+> comm path. Three workers have three communications paths; 4 have 6. In
+> fact, the growth of links is exponential\...Pretty soon memos and
+> meetings eat up the entire work day.
+> 
+> The solution is clear: break teams into smaller, autonomous and
+> independent units to reduce these communications links.
+> 
+> Similarly, cut programs into smaller units. Since a large part of the
+> problem stems from dependencies (global variables, data passed between
+> functions, shared hardware, etc.), find a way to partition the program
+> to eliminate --- or minimize --- the dependencies between units.
+> 
+> ---[The Ganssle Group](http://www.ganssle.com) (from [Keep It Small](http://www.ganssle.com/articles/keepsmall.htm))

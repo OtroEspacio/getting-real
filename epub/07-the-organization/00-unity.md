@@ -1,4 +1,3 @@
-::: {.content}
 Unity
 =====
 
@@ -19,9 +18,3 @@ developers.
 Even better, hire people with multiple talents who can wear different
 hats during development. The end result will be a more harmonious
 product.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch07) \| [Next essay](ch07_Alone_Time.php)
-:::
-:::
