@@ -1,4 +1,3 @@
-::: {.content}
 There\'s Nothing Functional about a Functional Spec
 ===================================================
 
@@ -80,39 +79,28 @@ Forget about locked-in specs. They force you to make big, key decisions
 too early in the process. Bypass the spec phase and you\'ll keep change
 cheap and stay flexible.
 
-::: {.quote}
-### Useless Specs
+> ### Useless Specs
+> 
+> A \"spec\" is close to useless. I have never seen a spec that was both
+> big enough to be useful and accurate.
+> 
+> And I have seen lots of total crap work that was based on specs. It\'s
+> the single worst way to write software, because it by definition means
+> that the software was written to match theory, not reality.
+> 
+> ---Linus Torvalds, creator of [Linux](http://www.linux.org/) (from: [Linux: Linus On Specifications](http://kerneltrap.org/node/5725))
 
-A \"spec\" is close to useless. I have never seen a spec that was both
-big enough to be useful and accurate.
-
-And I have seen lots of total crap work that was based on specs. It\'s
-the single worst way to write software, because it by definition means
-that the software was written to match theory, not reality.
-
----Linus Torvalds, creator of [Linux](http://www.linux.org/) (from:
-[Linux: Linus On Specifications](http://kerneltrap.org/node/5725))
-:::
-
-::: {.quote}
-### Fight the blockers
-
-I found the people insisting on extensive requirements documents before
-starting any design were really \'blockers\' just trying to slow the
-process down (and usually people with nothing to contribute on design or
-innovative thinking).
-
-All our best work was done with a few concepts in our heads about
-improving a site, doing a quick prototype (static), changing the design
-a bit and then building a live prototype with real data. After kicking
-the tires on this prototype, we usually had a real project in motion and
-good result.
-
----Mark Gallagher, corporate intranet developer (from Signal vs. Noise)
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch11) \| [Next essay](ch11_Dont_Do_Dead_Documents.php)
-:::
-:::
+> ### Fight the blockers
+> 
+> I found the people insisting on extensive requirements documents before
+> starting any design were really \'blockers\' just trying to slow the
+> process down (and usually people with nothing to contribute on design or
+> innovative thinking).
+> 
+> All our best work was done with a few concepts in our heads about
+> improving a site, doing a quick prototype (static), changing the design
+> a bit and then building a live prototype with real data. After kicking
+> the tires on this prototype, we usually had a real project in motion and
+> good result.
+> 
+> ---Mark Gallagher, corporate intranet developer (from Signal vs. Noise)

@@ -1,4 +1,3 @@
-::: {.content}
 Use Real Words
 ==============
 
@@ -39,25 +38,15 @@ Do as your customers do and you\'ll understand them better. When you
 understand them better, and feel what they feel, you\'ll build a better
 interface.
 
-::: {.quote}
-### Lorem Ipsum Garbage
-
-By not having the imagination to imagine what the content \"might\" be,
-a design consideration is lost. Meaning becomes obfuscated because
-\"it\'s just text\", understandability gets compromised because nobody
-realized that this text stuff was actually meant to be read.
-Opportunities get lost because the lorem ipsum garbage that you used
-instead of real content didn\'t suggest opportunities. The text then
-gets made really small, because, it\'s not meant to be used, we might as
-well create loads of that lovely white space.
-
----Tom Smith, designer and developer (from [I hate Lorem Ipsum and Lorem
-Ipsum
-Users](http://www.theotherblog.com/Articles/2003/11/20/gRSgEDDkFH/))
-:::
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch11) \| [Next essay](ch11_Personify_Your_Product.php)
-:::
-:::
+> ### Lorem Ipsum Garbage
+> 
+> By not having the imagination to imagine what the content \"might\" be,
+> a design consideration is lost. Meaning becomes obfuscated because
+> \"it\'s just text\", understandability gets compromised because nobody
+> realized that this text stuff was actually meant to be read.
+> Opportunities get lost because the lorem ipsum garbage that you used
+> instead of real content didn\'t suggest opportunities. The text then
+> gets made really small, because, it\'s not meant to be used, we might as
+> well create loads of that lovely white space.
+> 
+> ---Tom Smith, designer and developer (from [I hate Lorem Ipsum and Lorem Ipsum Users](http://www.theotherblog.com/Articles/2003/11/20/gRSgEDDkFH/))

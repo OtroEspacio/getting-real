@@ -1,4 +1,3 @@
-::: {.content}
 Personify Your Product
 ======================
 
@@ -17,9 +16,3 @@ fits your app\'s personality.
 
 Your product has a voice --- and it\'s talking to your customers 24
 hours a day.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch11) \| [Next essay](ch12_Free_Samples.php)
-:::
-:::

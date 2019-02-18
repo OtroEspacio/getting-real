@@ -1,4 +1,3 @@
-::: {.content}
 Tell Me a Quick Story
 =====================
 
@@ -18,9 +17,3 @@ Stick to the experience instead of getting hung up on the details. Think
 strategy, not tactics. The tactics will fall into place once you begin
 building that part of your app. Right now you just want to get a story
 going that will initiate conversation and get you on the right track.
-
-::: {.next}
-[Table of contents](toc.php) \| [Essay list for this
-chapter](toc.php#ch11) \| [Next essay](ch11_Use_Real_Words.php)
-:::
-:::
