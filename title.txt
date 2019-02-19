@@ -7,4 +7,5 @@ title:
 author: 37signals
 rights:  © Copyright 2006 37signals
 language: en-US
+cover-image: ./epub/cover-image.png
 ...
